@@ -1,0 +1,26 @@
+{
+  "name": "node-lab-1",
+  "version": "1.0.0",
+  "description": "simple http server",
+  "main": "app1.js",
+  "scripts": {
+    "test": "http://localhost:8000/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00965219/ewd-labs.git"
+  },
+  "keywords": [
+    "node",
+    "lab1"
+  ],
+  "author": "Clodagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00965219/ewd-labs/issues"
+  },
+  "homepage": "https://github.com/00965219/ewd-labs#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
